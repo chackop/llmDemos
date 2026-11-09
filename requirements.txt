@@ -1,0 +1,11 @@
+pinecone
+openai
+sentence-transformers
+tiktoken
+datasets<4
+pandas
+matplotlib
+cohere
+beautifulsoup4
+requests
+supabase
